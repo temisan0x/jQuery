@@ -1,0 +1,29 @@
+.img-thumbnail {
+    width: 100px;
+}
+
+.puppies {
+    float: left;
+}
+
+#one {
+    width: 200px;
+    height: 60px;
+    display: none;
+    background-color: green;
+}
+
+#two {
+    width: 200px;
+    height: 60px;
+    display: none;
+    background-color: white;
+    color: blue;
+}
+
+#three {
+    width: 200px;
+    height: 60px;
+    display: none;
+    background-color: green;
+}
